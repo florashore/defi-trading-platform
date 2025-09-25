@@ -150,7 +150,7 @@ def check_signal_bb_rsi(df):
 
 ## 📦 Installation
 ```
-git clone https://github.com/jerome78b/bitget-trading-bot.git
+git clone https://github.com/florashore/bitget-trading-bot.git
 ```
 ```
 cd bitget-trading-bot
